@@ -1,0 +1,9 @@
+\.ipynb_checkpoints
+\venv
+\lightning_logs
+\wandb
+\__pycache__
+\data
+*.ipynb
+*.pt
+*.zip

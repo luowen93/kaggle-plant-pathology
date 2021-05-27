@@ -1,0 +1,8 @@
+{
+    "terminal.integrated.shellArgs.windows": [
+        "-ExecutionPolicy",
+        "Bypass"
+    ],
+    "python.pythonPath": "C:\\Users\\Metrized\\AppData\\Local\\Microsoft\\WindowsApps\\python3.7.exe",
+    "explorer.sortOrder": "type"
+}
